@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # 🍽️ Meals App
 
 A Flutter mobile application that allows users to browse meals, explore categories, and manage their favorite meals with a smooth and responsive UI.
@@ -127,10 +129,16 @@ flutter run
 
 **Ehigiator Emma Kennedy**
 
-- GitHub: (your link here)
+- GitHub: https://github.com/Acekingcoder
 
 ---
 
 ## ⭐️ Show Your Support
 
-If you like this project, consider giving it a star ⭐ on GitHub!
+# If you like this project, consider giving it a star ⭐ on GitHub!
+
+# meals-app-flutter
+
+Flutter meals app with category browsing and favorites functionality, built using Riverpod for state management.
+
+> > > > > > > e14bc7906b8251251591b179160bebb24dbf2c31
